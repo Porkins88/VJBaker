@@ -52,8 +52,21 @@ h1{
 	height: 75px;
 	position: absolute;
 	bottom: -10px;
+	z-index: 1000;
 }
 .FB img{
+	width: 100%;
+	height: auto;
+}
+.instagram{
+	width: 52px;
+	height: 52px;
+	position: absolute;
+	bottom: 1px;
+	left: 100px;
+	z-index: 1000;
+}
+.instagram img{
 	width: 100%;
 	height: auto;
 }
