@@ -41,56 +41,9 @@ h1{
 	max-width: 600px;
 	max-height: 600px;
 	margin: 0;
-
-	
-}
-#left_text{
-	position: absolute;
-	color: #aaa;
-	left: 50px;
-	top: 250px;
-	font-size: 35pt;
-	padding: 20px;
-	
 }
 
 
-#right_text{
-	position: absolute;
-	color: #aaa;
-	top: 250px;
-	right: 95px;
-	font-size: 35pt;
-	padding: 20px;
-	
-}
 
-/* This is the Changing Text*/
-div.changling span#a {
-display:inline;
-}
-div.changling:hover span#a {
-display:none;
-}
-div.changling span#b {
-display:none;
-}
-div.changling:hover span#b {
-display:inline;
-}
-
-div.changling span#c {
-display:inline;
-}
-div.changling:hover span#c {
-display:none;
-}
-div.changling span#d {
-display:none;
-}
-div.changling:hover span#d {
-display:inline;
-}
-/* END OF CHANGING TEXT*/
 
 
