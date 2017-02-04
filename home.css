@@ -47,6 +47,17 @@ h1{
 	max-height: 600px;
 	margin: 0;
 	}
+.FB{
+	width: 75px;
+	height: 75px;
+	position: absolute;
+	bottom: -10px;
+}
+.FB img{
+	width: 100%;
+	height: auto;
+}
+
 
 
 
