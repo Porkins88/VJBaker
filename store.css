@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	letter-spacing: 2px;
+}
+.nav{
+	background-color: black;
+	color: #000000
+	list-style: none;
+	text-align: center;
+	padding: 20px 0 0 0;
+	position: relative;
+	z-index: 1000;
+}
+.nav > li{
+	display: inline-block;
+	padding: 0 25px 0 25px;
+}
+.nav > li > a{
+	text-decoration: none;
+	color: white;
+	font-size: 20pt;
+	letter-spacing: 2px;
+}
+.nav > li > a:hover{
+	color: #aaa;
+}
