@@ -1,3 +1,7 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 body{
 	background-color: white;
 	margin: 0;
@@ -36,8 +40,6 @@ h1{
 .banner{
 	text-align: center;
 	margin: 0;
-	
-
 }
 
 #tiger{
@@ -46,7 +48,7 @@ h1{
 	max-width: 600px;
 	max-height: 600px;
 	margin: 0;
-	}
+}
 .FB{
 	width: 75px;
 	height: 75px;
